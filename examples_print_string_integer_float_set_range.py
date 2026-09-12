@@ -1,0 +1,10 @@
+x=25
+y="hello"
+z=25.5
+my_set={1,2,3}
+my_range=range(5)
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(my_set))
+print(type(my_range))
